@@ -1,6 +1,8 @@
 # Bluetooth-Speaker
 PCB
 
+![image](https://user-images.githubusercontent.com/61832922/143882597-d14b0b6c-1692-4b77-b3ef-acb7104e8b1a.png)
+
 Implement a PCB of BM64 (Bluetooth module) with a 24-bit high-resolution 96 kHz signal in I2S audio data format. 
 
 PCB of ES9018K2M (DAC) with a 20-bit signal and 96dB SNR. 
